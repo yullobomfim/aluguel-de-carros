@@ -1,0 +1,79 @@
+[
+    {
+    "CodigoFipe": "015069-0",
+    "Marca": "Hyundai",
+    "Modelo": "HB20 S V3 24V 4p Aut.",
+    "AnoModelo": 2022,
+    "Combustivel": "Gasolina | Alcool",
+    "ValorAluguel": "R$ 400,00",
+    "VeiculoDisponivel": "False" ,
+    "DataAluguel": "02 de maio de 2022",
+    "DataDevolucao": "10 de maio de 2022"
+    },
+    {
+    "CodigoFipe": "015074-0",
+    "Marca": "Fiat",
+    "Modelo": "Uno branco com escada no teto",
+    "AnoModelo": 2017,
+    "Combustivel": "Gasolina",
+    "ValorAluguel": "R$ 200,00",
+    "VeiculoDisponivel": "True" ,
+    "DataAluguel": "",
+    "DataDevolucao": ""
+    },
+    {
+    "CodigoFipe": "025029-1",
+    "Marca": "Volkswagen",
+    "Modelo": "Gol Bola 2p manual",
+    "AnoModelo": 2015,
+    "Combustivel": "Gasolina",
+    "ValorAluguel": "R$ 200,00",
+    "VeiculoDisponivel": "True" ,
+    "DataAluguel": "",
+    "DataDevolucao": ""
+    },
+    {
+    "CodigoFipe": "025029-1",
+    "Marca": "chevrolet",
+    "Modelo": "Meriva 4p automatico",
+    "AnoModelo": 2015,
+    "Combustivel": "Gasolina",
+    "ValorAluguel": "R$ 200,00",
+    "VeiculoDisponivel": "False" ,
+    "DataAluguel": "22 de maio de 2022",
+    "DataDevolucao": "26 de maio de 2022"
+    },
+    {
+    "CodigoFipe": "025029-1",
+    "Marca": "Kia",
+    "Modelo": "Sportage 4 portas 8V automatico",
+    "AnoModelo": 2020,
+    "Combustivel": "Alcool",
+    "ValorAluguel": "R$ 350,00",
+    "VeiculoDisponivel": "False" ,
+    "DataAluguel": "08 de maio de 2022",
+    "DataDevolucao": "12 de maio de 2022"
+    },
+    {
+    "CodigoFipe": "025029-1",
+    "Marca": "Mercedes Benz",
+    "Modelo": "C 118 1.6 Turbo",
+    "AnoModelo": 2019,
+    "Combustivel": "Gasolina",
+    "ValorAluguel": "R$ 500,00",
+    "VeiculoDisponivel": "True" ,
+    "DataAluguel": "",
+    "DataDevolucao": ""
+    },
+    {
+    "CodigoFipe": "022532-1",
+    "Marca": "Chevrolet",
+    "Modelo": "Opala preto 4p manual",
+    "AnoModelo": 1994,
+    "Combustivel": "Gasolina",
+    "ValorAluguel": "R$ 100,00",
+    "VeiculoDisponivel": "True" ,
+    "DataAluguel": "",
+    "DataDevolucao": ""
+    }
+]
