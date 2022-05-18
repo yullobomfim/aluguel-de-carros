@@ -1,0 +1,30 @@
+version: "3"
+
+services:
+  user:
+    build: .
+    container_name: users
+    ports:
+      - 9001:9000
+    volumes:
+      - "./services/user:/services"
+    command: >
+      bash -c "npm install && npm start"
+  vehicle:
+    build: .
+    container_name: vehicles
+    ports:
+      - 9002:9000
+    volumes:
+      - "./services/vehicle:/services"
+    command: >
+      bash -c "npm install && npm start"
+  crawler:
+    build: .
+    container_name: crawler
+    ports:
+      - 9003:9000
+    volumes:
+      - "./services/crawler:/services"
+    command: >
+      bash -c "npm install && npm start"
